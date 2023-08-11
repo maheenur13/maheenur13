@@ -25,6 +25,6 @@
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=maheenur13&icon=1&color=9)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=maheenur13&icon=1&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
