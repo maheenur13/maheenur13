@@ -21,10 +21,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=maheenur13&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+![](https://visitcount.itsvg.in/api?id=maheenur13&icon=1&color=10)](https://visitcount.itsvg.in)
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 
----
-[![](https://visitcount.itsvg.in/api?id=maheenur13&icon=1&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
