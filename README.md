@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jahidun Nur Mahee</h1>
 <h3 align="center">Software Engineer from Bangladesh!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maheenur13&label=Profile%20views&color=0e75b6&style=flat" alt="maheenur13" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maheenur13&label=Profile%20views&color=0e75b6&style=flat-square" alt="maheenur13" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maheenur13" alt="maheenur13" /></a> </p>
 
@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maheenur13&show_icons=true&locale=en" alt="maheenur13" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maheenur13&" alt="maheenur13" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maheenur13&theme=dark" alt="maheenur13" /></p>
