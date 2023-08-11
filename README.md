@@ -2,7 +2,8 @@
 <h1 align="left">Hi 👋, This is Jahidun Nur Mahee</h1>
 <h3 align="left">Software Engineer from Bangladesh!</h3>
 🔭 I’m currently working on storybook and npm package<br>🌱 I’m currently learning micro-service / prisma<br>💬 Ask me about Javascript, Next js, React js, Express Js, Typescript, Data Structure<br>⚡ Fun fact I am a musician. I can play guitar can sing and can produce music in FL studio😛  
-<br/>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maheenur13&label=Profile%20views&color=0e75b6&style=flat-square" alt="maheenur13" /> </p>
 
 ## 🌐 Socials:
