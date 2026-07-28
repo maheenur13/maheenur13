@@ -1,28 +1,206 @@
-# 💫 About Me:
-<h1 align="left">Hi 👋, This is Jahidun Nur Mahee</h1>
-<h3 align="left">Software Engineer from Bangladesh!</h3>
-🔭 I’m currently working on my own product!<br>🌱 I’m currently learning micro-services and devops<br>💬 Ask me about Javascript, Next js, React js, Express Js, Typescript, Data Structure<br>⚡ Fun fact I am a musician. I can play guitar can sing and can produce music in FL studio!😛  
+<!-- ═══════════════════════ HEADER ═══════════════════════ -->
+<div align="center">
+  <img src="assets/header.svg" width="100%" alt="terminal banner — Jahidun Nur Mahee, Software Engineer @ Strativ AB"/>
 
+  <!-- rotating prompt tagline -->
+  <img src="assets/tagline.svg" width="720" alt="❯ Software Engineer @ Strativ AB · Founder &amp; CEO @ Ternion Loop · Building Sports Loop"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maheenur13&label=Profile%20views&color=0e75b6&style=flat-square" alt="maheenur13" /> </p>
+  <br/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/differentmahee13/) 
+  <!-- terminal-path badges -->
+  <a href="https://jahidun-nur-mahee.vercel.app">
+    <img src="https://img.shields.io/badge/~%2Fportfolio-visit-00C9A7?style=for-the-badge&labelColor=161B22&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/differentmahee13/">
+    <img src="https://img.shields.io/badge/~%2Flinkedin-connect-0A66C2?style=for-the-badge&labelColor=161B22&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/maheenur13?tab=followers">
+    <img src="https://img.shields.io/github/followers/maheenur13?style=for-the-badge&labelColor=161B22&logo=github&label=~%2Ffollowers&color=6C63FF" alt="GitHub followers"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=maheenur13&style=for-the-badge&color=6c63ff&label=~%2Fviews" alt="profile views"/>
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=flat&logo=svelte&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=material-ui&logoColor=white) ![Less](https://img.shields.io/badge/less-2B4C80?style=flat&logo=less&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat&logo=Electron&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=flat&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 	![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat&logo=babel&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=maheenur13&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=maheenur13&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=maheenur13&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=maheenur13&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
+## 💻 `$ whoami`
 
----
-<!-- [![](https://visitcount.itsvg.in/api?id=maheenur13&icon=2&color=1)](https://visitcount.itsvg.in) -->
+<img align="right" width="360" src="assets/whoami.svg" alt="animated dev-musician avatar — Mahee coding with headphones on"/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```typescript
+// mahee.service.ts — running since 2021, zero downtime ☕
+
+@Injectable({ scope: Scope.DEFAULT }) // always available
+export class Mahee extends SoftwareEngineer implements Musician {
+  readonly company = "Strativ AB 🇸🇪";
+  readonly startup = "Ternion Loop — Founder & CEO 🚀";
+  readonly firstProduct = "Sports Loop 🏟️";
+  readonly base = "Dhaka, Bangladesh 🇧🇩";
+  readonly uptime = "4+ years in production";
+  readonly motto = "I code everyday! ^_^";
+
+  async currentFocus(): Promise<Focus[]> {
+    return ["AI & LLM apps 🤖", "RAG pipelines", "Microservices", "DevOps"];
+  }
+
+  @Get("/stack")
+  stack(): TechStack {
+    return {
+      frontend: ["TypeScript", "React", "Next.js"],
+      backend: ["Node.js", "NestJS", "PostgreSQL", "Redis"],
+      mobile: ["React Native", "Expo"],
+    };
+  }
+
+  @Cron("*/60 * * * *") // hourly, non-negotiable
+  refuel(): Coffee { return new Coffee({ size: "large" }); }
+
+  @OnEvent("work.done")
+  unwind(): Music {
+    return this.play("guitar 🎸") ?? this.produce("FL Studio 🎹");
+  }
+}
+```
+
+```console
+$ mahee --achievements
+  🏆 3rd place — Inter-University Programming Competition
+  🧩 260+ problems solved on LeetCode & Beecrowd
+  🌐 portfolio → https://jahidun-nur-mahee.vercel.app
+```
+
+<br clear="right"/>
+
+<!-- ═══════════════════════ EXPERIENCE ═══════════════════════ -->
+## 💼 `$ git log --career`
+
+```console
+$ git log --career --oneline --graph
+
+* e7d19f3 (feature/startup) Founder & CEO · Ternion Loop 🚀
+│          shipping Sports Loop 🏟️ — our first product
+│
+* a4f2b1c (HEAD -> main, origin/stockholm) Software Engineer · Strativ AB 🇸🇪
+│          Aug 2024 → present · scalable web apps · code reviews · mentoring
+│
+* 9c8e3d2 (dhaka) Software Engineer · APSIS Solutions Ltd 🇧🇩
+│          Jun 2022 → Jul 2024 · full-stack apps · microservices · performance
+│
+* 1f0a7e5 (dhaka) Junior Software Engineer · Zaynax Ltd 🇧🇩
+           Aug 2021 → Jun 2022 · responsive web apps · REST APIs · agile
+
+$ # 4+ years committed, zero force-pushes to production 😌
+```
+
+<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
+## 🛠️ `$ npx mahee --stack`
+
+<div align="center">
+
+### `~/frontend`
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui,bootstrap,html,css&theme=dark" alt="frontend"/>
+
+<sub>+ Ant Design • Redux Toolkit • Zustand • Recoil • TanStack Query • Socket.io</sub>
+
+### `~/backend`
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,redis&theme=dark" alt="backend"/>
+
+<sub>+ Microservices • Zod • REST APIs • Authentication & Authorization</sub>
+
+### `~/ai-llm` 🤖
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/> <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/> <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logoColor=white" alt="DeepSeek"/> <img src="https://img.shields.io/badge/RAG_Pipelines-6C63FF?style=for-the-badge" alt="RAG"/> <img src="https://img.shields.io/badge/Embeddings_%26_Vector_Search-00C9A7?style=for-the-badge" alt="Embeddings"/>
+
+<sub>LLM-powered apps • chatbots • tool calling • content engines • document extraction</sub>
+
+### `~/databases`
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,sequelize&theme=dark" alt="databases"/>
+
+<sub>+ Mongoose • SQL</sub>
+
+### `~/mobile-desktop`
+<img src="https://skillicons.dev/icons?i=react,electron&theme=dark" alt="mobile and desktop"/>
+
+<sub>React Native • Expo • iOS Development • Electron.js</sub>
+
+### `~/devops-tools`
+<img src="https://skillicons.dev/icons?i=docker,cloudflare,vercel,git,github,vscode,postman&theme=dark" alt="devops and tools"/>
+
+<sub>+ Railway • Cursor • Husky • Prettier • ESLint • Jira • ClickUp • cPanel</sub>
+
+</div>
+
+<!-- ═══════════════════════ FEATURED PROJECTS ═══════════════════════ -->
+## 🚀 `$ ls ~/projects --featured`
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🏟️ **Sports Loop** | Ternion Loop's first product — as Founder & CEO 🚀 | TypeScript |
+| ⚙️ **Alent Dynamic** | Industrial IoT system for real-time monitoring & control of manufacturing processes | React.js • Node.js • MQTT • PostgreSQL • Redis |
+| 🧠 **Content Engine (RAG)** | Retrieval-Augmented Generation pipeline for AI-powered content generation & semantic search | TypeScript • LLMs • Embeddings • Vector DB |
+| 🤖 **[AI Invoice Extractor](https://github.com/maheenur13/ai-invoice-extractor)** | LLM-powered invoice data extraction | TypeScript |
+| 💬 **[LLM Chatbot](https://github.com/maheenur13/llm-chatbot)** | Full-stack AI chatbot ([backend](https://github.com/maheenur13/chatbot-backend)) | TypeScript |
+| 📄 **[Resume Builder](https://github.com/maheenur13/resume-builder)** | Modern resume building tool | TypeScript |
+
+<!-- ═══════════════════════ GITHUB STATS ═══════════════════════ -->
+## 📊 `$ git stats --all-time`
+
+<div align="center">
+
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=maheenur13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheenur13&theme=tokyonight&hide_border=true&bg_color=00000000&layout=compact&langs_count=8" alt="Top languages"/>
+
+  <br/><br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maheenur13&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub streak"/>
+
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maheenur13&theme=tokyo-night&hide_border=true&bg_color=00000000&color=6C63FF&line=00C9A7&point=FFFFFF&area=true" width="95%" alt="Contribution graph"/>
+
+</div>
+
+<!-- ═══════════════════════ TROPHIES ═══════════════════════ -->
+## 🏆 `$ gh trophies --unlock-all`
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=maheenur13&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies"/>
+</div>
+
+<!-- ═══════════════════════ SNAKE ═══════════════════════ -->
+## 🐍 `$ ./snake --eat contributions`
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maheenur13/maheenur13/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maheenur13/maheenur13/output/github-contribution-grid-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/maheenur13/maheenur13/output/github-contribution-grid-snake.svg" alt="snake animation" width="95%"/>
+  </picture>
+</div>
+
+<!-- ═══════════════════════ QUOTE ═══════════════════════ -->
+## ✍️ `$ fortune --dev`
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote"/>
+</div>
+
+<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
+<div align="center">
+
+  ### 🤝 `$ mahee --connect`
+
+  <sub>establishing connection… let's build something great together</sub>
+  <br/><br/>
+
+  <a href="https://jahidun-nur-mahee.vercel.app">
+    <img src="https://img.shields.io/badge/-Visit%20My%20Portfolio-00C9A7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/differentmahee13/">
+    <img src="https://img.shields.io/badge/-Reach%20out%20on%20LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="Reach out"/>
+  </a>
+
+  <br/>
+
+  <img src="assets/footer.svg" width="100%" alt="VS Code status bar footer"/>
+</div>

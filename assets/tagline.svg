@@ -1,0 +1,30 @@
+<svg width="720" height="56" viewBox="0 0 720 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g font-family="Consolas, 'Fira Code', 'Courier New', monospace" font-size="22" font-weight="600">
+
+    <text x="360" y="36" text-anchor="middle" opacity="0">
+      <tspan fill="#00C9A7">❯ </tspan><tspan fill="#6C63FF">Software Engineer @ Strativ AB 🇸🇪</tspan><tspan fill="#00C9A7"> ▌<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></tspan>
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.004;0.025;0.175;0.2;1" dur="15s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="360" y="36" text-anchor="middle" opacity="0">
+      <tspan fill="#00C9A7">❯ </tspan><tspan fill="#A5B4FC">Founder &amp; CEO @ Ternion Loop 🚀</tspan><tspan fill="#00C9A7"> ▌<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></tspan>
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.2;0.225;0.375;0.4;1" dur="15s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="360" y="36" text-anchor="middle" opacity="0">
+      <tspan fill="#00C9A7">❯ </tspan><tspan fill="#4B9FE1">Building Sports Loop 🏟️ — our first product</tspan><tspan fill="#00C9A7"> ▌<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></tspan>
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.4;0.425;0.575;0.6;1" dur="15s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="360" y="36" text-anchor="middle" opacity="0">
+      <tspan fill="#00C9A7">❯ </tspan><tspan fill="#6C63FF">Shipping AI &amp; LLM-powered apps 🤖</tspan><tspan fill="#00C9A7"> ▌<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></tspan>
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.6;0.625;0.775;0.8;1" dur="15s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="360" y="36" text-anchor="middle" opacity="0">
+      <tspan fill="#00C9A7">❯ </tspan><tspan fill="#00C9A7">Guitarist &amp; FL Studio producer 🎸</tspan><tspan fill="#00C9A7"> ▌<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></tspan>
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.8;0.825;0.975;0.995;1" dur="15s" repeatCount="indefinite"/>
+    </text>
+
+  </g>
+</svg>

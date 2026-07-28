@@ -1,0 +1,79 @@
+<svg width="880" height="300" viewBox="0 0 880 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="glow" x1="0" y1="0" x2="880" y2="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6C63FF" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#00C9A7" stop-opacity="0.6"/>
+    </linearGradient>
+
+    <!-- typewriter reveal masks -->
+    <mask id="type1">
+      <rect x="40" y="72" width="0" height="26" fill="#fff">
+        <animate attributeName="width" from="0" to="225" dur="1.1s" begin="0.4s" fill="freeze"/>
+      </rect>
+    </mask>
+    <mask id="type2">
+      <rect x="40" y="128" width="0" height="26" fill="#fff">
+        <animate attributeName="width" from="0" to="290" dur="1.2s" begin="2.4s" fill="freeze"/>
+      </rect>
+    </mask>
+    <mask id="type3">
+      <rect x="40" y="184" width="0" height="26" fill="#fff">
+        <animate attributeName="width" from="0" to="405" dur="1.4s" begin="4.6s" fill="freeze"/>
+      </rect>
+    </mask>
+  </defs>
+
+  <!-- glow border -->
+  <rect x="18" y="18" width="844" height="254" rx="14" stroke="url(#glow)" stroke-width="2"/>
+
+  <!-- terminal window -->
+  <rect x="20" y="20" width="840" height="250" rx="12" fill="#0D1117"/>
+
+  <!-- title bar -->
+  <path d="M20 32C20 25.3726 25.3726 20 32 20H848C854.627 20 860 25.3726 860 32V56H20V32Z" fill="#161B22"/>
+  <circle cx="44" cy="38" r="6" fill="#FF5F56"/>
+  <circle cx="66" cy="38" r="6" fill="#FFBD2E"/>
+  <circle cx="88" cy="38" r="6" fill="#27C93F"/>
+  <text x="440" y="43" text-anchor="middle" font-family="Consolas, 'Fira Code', 'Courier New', monospace" font-size="13" fill="#8B949E">mahee@strativ: ~/portfolio — zsh</text>
+
+  <!-- line 1: whoami (typed) -->
+  <text x="40" y="90" font-family="Consolas, 'Fira Code', 'Courier New', monospace" font-size="15" mask="url(#type1)">
+    <tspan fill="#00C9A7">mahee@strativ</tspan><tspan fill="#8B949E">:~$ </tspan><tspan fill="#E6EDF3">whoami</tspan>
+  </text>
+
+  <!-- line 2: output -->
+  <text x="40" y="118" font-family="Consolas, 'Fira Code', 'Courier New', monospace" font-size="15" fill="#A5B4FC" opacity="0">
+    Jahidun Nur Mahee · Software Engineer @ Strativ AB · Founder &amp; CEO @ Ternion Loop
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.8s" fill="freeze"/>
+  </text>
+
+  <!-- line 3: cat stack.txt (typed) -->
+  <text x="40" y="146" font-family="Consolas, 'Fira Code', 'Courier New', monospace" font-size="15" mask="url(#type2)">
+    <tspan fill="#00C9A7">mahee@strativ</tspan><tspan fill="#8B949E">:~$ </tspan><tspan fill="#E6EDF3">cat stack.txt</tspan>
+  </text>
+
+  <!-- line 4: output -->
+  <text x="40" y="174" font-family="Consolas, 'Fira Code', 'Courier New', monospace" font-size="15" fill="#8B949E" opacity="0">
+    TypeScript · React · Next.js · Node.js · NestJS · PostgreSQL · AI/LLM
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="3.8s" fill="freeze"/>
+  </text>
+
+  <!-- line 5: ship it (typed) -->
+  <text x="40" y="202" font-family="Consolas, 'Fira Code', 'Courier New', monospace" font-size="15" mask="url(#type3)">
+    <tspan fill="#00C9A7">mahee@strativ</tspan><tspan fill="#8B949E">:~$ </tspan><tspan fill="#E6EDF3">./ship_it.sh --with=coffee</tspan>
+  </text>
+
+  <!-- line 6: output + new prompt with blinking cursor -->
+  <text x="40" y="230" font-family="Consolas, 'Fira Code', 'Courier New', monospace" font-size="15" opacity="0">
+    <tspan fill="#6C63FF">➜</tspan><tspan fill="#E6EDF3"> Ternion Loop · Sports Loop 🏟️ → production 🚀</tspan>
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="6.2s" fill="freeze"/>
+  </text>
+
+  <text x="40" y="258" font-family="Consolas, 'Fira Code', 'Courier New', monospace" font-size="15" opacity="0">
+    <tspan fill="#00C9A7">mahee@strativ</tspan><tspan fill="#8B949E">:~$ </tspan>
+    <animate attributeName="opacity" from="0" to="1" dur="0.1s" begin="6.6s" fill="freeze"/>
+  </text>
+  <rect x="196" y="245" width="9" height="16" fill="#00C9A7" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.01;0.5;0.51;1" dur="1.1s" begin="6.7s" repeatCount="indefinite"/>
+  </rect>
+</svg>

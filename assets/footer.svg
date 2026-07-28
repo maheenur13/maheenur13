@@ -1,0 +1,31 @@
+<svg width="880" height="40" viewBox="0 0 880 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bar" x1="0" y1="0" x2="880" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6C63FF"/>
+      <stop offset="1" stop-color="#4B9FE1"/>
+    </linearGradient>
+  </defs>
+
+  <!-- VS Code style status bar -->
+  <rect width="880" height="40" rx="8" fill="url(#bar)"/>
+
+  <!-- left: remote badge -->
+  <path d="M0 8C0 3.58172 3.58172 0 8 0H120V40H8C3.58172 40 0 36.4183 0 32V8Z" fill="#00C9A7"/>
+  <text x="16" y="25" font-family="Consolas, 'Fira Code', 'Courier New', monospace" font-size="13" fill="#0D1117" font-weight="bold">⚡ mahee</text>
+
+  <!-- left items -->
+  <text x="140" y="25" font-family="Consolas, 'Fira Code', 'Courier New', monospace" font-size="13" fill="#FFFFFF">⎇ main*</text>
+  <text x="232" y="25" font-family="Consolas, 'Fira Code', 'Courier New', monospace" font-size="13" fill="#FFFFFF">✓ 0 errors</text>
+  <text x="340" y="25" font-family="Consolas, 'Fira Code', 'Courier New', monospace" font-size="13" fill="#FFFFFF">☕ fueled</text>
+
+  <!-- blinking sync icon -->
+  <text x="440" y="25" font-family="Consolas, 'Fira Code', 'Courier New', monospace" font-size="13" fill="#FFFFFF">
+    ↻ always shipping
+    <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- right items -->
+  <text x="620" y="25" font-family="Consolas, 'Fira Code', 'Courier New', monospace" font-size="13" fill="#FFFFFF">Ln 42, Col 13</text>
+  <text x="740" y="25" font-family="Consolas, 'Fira Code', 'Courier New', monospace" font-size="13" fill="#FFFFFF">TypeScript</text>
+  <text x="838" y="25" font-family="Consolas, 'Fira Code', 'Courier New', monospace" font-size="13" fill="#FFFFFF">🎸</text>
+</svg>
