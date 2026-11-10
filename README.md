@@ -8,8 +8,11 @@
   <br/>
 
   <!-- terminal-path badges -->
-  <a href="https://jahidun-nur-mahee.vercel.app">
-    <img src="https://img.shields.io/badge/~%2Fportfolio-visit-00C9A7?style=for-the-badge&labelColor=161B22&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <a href="https://www.maheenur13.dev">
+    <img src="https://img.shields.io/badge/~%2Fmaheenur13.dev-visit-00C9A7?style=for-the-badge&labelColor=161B22&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.maheenur13.dev/workflow">
+    <img src="https://img.shields.io/badge/~%2Fworkflow-how_I_work-6C63FF?style=for-the-badge&labelColor=161B22" alt="My workflow"/>
   </a>
   <a href="https://www.linkedin.com/in/differentmahee13/">
     <img src="https://img.shields.io/badge/~%2Flinkedin-connect-0A66C2?style=for-the-badge&labelColor=161B22&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -37,11 +40,16 @@ export class Mahee extends SoftwareEngineer implements Musician {
   readonly startup = "Ternion Loop — Founder & CEO 🚀";
   readonly firstProduct = "Sports Loop 🏟️";
   readonly base = "Dhaka, Bangladesh 🇧🇩";
-  readonly uptime = "4+ years in production";
+  readonly uptime = "5 years in production";
   readonly motto = "I code everyday! ^_^";
 
   async currentFocus(): Promise<Focus[]> {
-    return ["AI & LLM apps 🤖", "RAG pipelines", "Microservices", "DevOps"];
+    return [
+      "LLM products on Claude 🤖",
+      "RAG: chunking, embeddings, pgvector",
+      "MCP: connecting AI tools to real data",
+      "System design & microservices",
+    ];
   }
 
   @Get("/stack")
@@ -50,6 +58,7 @@ export class Mahee extends SoftwareEngineer implements Musician {
       frontend: ["TypeScript", "React", "Next.js"],
       backend: ["Node.js", "NestJS", "PostgreSQL", "Redis"],
       mobile: ["React Native", "Expo"],
+      ai: ["Claude", "OpenAI", "Groq", "MCP", "RAG"],
     };
   }
 
@@ -65,9 +74,11 @@ export class Mahee extends SoftwareEngineer implements Musician {
 
 ```console
 $ mahee --achievements
-  🏆 3rd place — Inter-University Programming Competition
-  🧩 260+ problems solved on LeetCode & Beecrowd
-  🌐 portfolio → https://jahidun-nur-mahee.vercel.app
+  🥇 Employee of the Year, APSIS Solutions (top 1%) · 2023
+  🏅 Employee of the Quarter, APSIS Solutions (top 2%) · 2022
+  🏆 3rd place, Inter-University Programming Contest (Take Off)
+  🧩 250+ problems solved on LeetCode & Beecrowd
+  🌐 portfolio → https://www.maheenur13.dev
 ```
 
 <br clear="right"/>
@@ -79,19 +90,45 @@ $ mahee --achievements
 $ git log --career --oneline --graph
 
 * e7d19f3 (feature/startup) Founder & CEO · Ternion Loop 🚀
-│          shipping Sports Loop 🏟️ — our first product
+│          shipping Sports Loop 🏟️ — our first product, live on Google Play
 │
 * a4f2b1c (HEAD -> main, origin/stockholm) Software Engineer · Strativ AB 🇸🇪
-│          Aug 2024 → present · scalable web apps · code reviews · mentoring
+│          Aug 2024 → present
+│          · context engine: RAG knowledge base over every project, answers with Claude, now sold to clients
+│          · MCP connections between AI tools and internal knowledge bases
+│          · Strativ Greenroom: AI interviewer used for candidate screening
+│          · Alent Dynamic (industrial IoT for sawmills), Chefry, Biap (App Store)
 │
 * 9c8e3d2 (dhaka) Software Engineer · APSIS Solutions Ltd 🇧🇩
-│          Jun 2022 → Jul 2024 · full-stack apps · microservices · performance
+│          Jun 2022 → Aug 2024
+│          · led 8 frontend developers on an ERP for IFIC Bank, BRAC University, Prime Bank
+│          · ERP mobile apps (React Native + Expo), Storybook component library as an npm package
 │
 * 1f0a7e5 (dhaka) Junior Software Engineer · Zaynax Ltd 🇧🇩
-           Aug 2021 → Jun 2022 · responsive web apps · REST APIs · agile
+           Aug 2021 → Jul 2022 · Next.js component library · e-commerce admin & seller dashboards
 
-$ # 4+ years committed, zero force-pushes to production 😌
+$ # 5 years committed, zero force-pushes to production 😌
 ```
+
+<!-- ═══════════════════════ WORKFLOW ═══════════════════════ -->
+## 🧭 `$ cat ~/workflow`
+
+I built **Wayline**, my own app for learning and shipping, on an Android phone and a Windows laptop. Its backend is my portfolio.
+
+```console
+$ wayline --how-it-works
+  📱 Android (Expo)  ┐
+  🖥️  Windows (Electron)├──▶  maheenur13.dev (Next.js + Payload + Postgres)
+  🎙️ voice assistant  ┘            │
+                                     ├──▶ Groq · Workers AI   (assistant, memory, drafts)
+                                     ├──▶ /learning · /notes  (what I'm learning, in public)
+                                     └──▶ LinkedIn             (posts, after I approve them)
+
+$ wayline --loop
+  plan → focus → practice → review → share   # one app, $0 a month on free tiers
+```
+
+<sub>Full diagram and the weekly loop → <a href="https://www.maheenur13.dev/workflow">maheenur13.dev/workflow</a></sub>
 
 <!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
 ## 🛠️ `$ npx mahee --stack`
@@ -99,34 +136,34 @@ $ # 4+ years committed, zero force-pushes to production 😌
 <div align="center">
 
 ### `~/frontend`
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui,bootstrap,html,css&theme=dark" alt="frontend"/>
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,svelte,vite,html,css&theme=dark" alt="frontend"/>
 
-<sub>+ Ant Design • Redux Toolkit • Zustand • Recoil • TanStack Query • Socket.io</sub>
+<sub>+ Ant Design • shadcn/ui • Zustand • Redux Toolkit • TanStack Query • Socket.io • Playwright</sub>
 
 ### `~/backend`
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,redis&theme=dark" alt="backend"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,redis,python&theme=dark" alt="backend"/>
 
-<sub>+ Microservices • Zod • REST APIs • Authentication & Authorization</sub>
+<sub>+ Microservices • REST • gRPC • WebSocket • Zod • queues & background jobs • Stripe</sub>
 
 ### `~/ai-llm` 🤖
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/> <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/> <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logoColor=white" alt="DeepSeek"/> <img src="https://img.shields.io/badge/RAG_Pipelines-6C63FF?style=for-the-badge" alt="RAG"/> <img src="https://img.shields.io/badge/Embeddings_%26_Vector_Search-00C9A7?style=for-the-badge" alt="Embeddings"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/> <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white" alt="Groq"/> <img src="https://img.shields.io/badge/MCP-111111?style=for-the-badge&logoColor=white" alt="MCP"/> <img src="https://img.shields.io/badge/RAG_Pipelines-6C63FF?style=for-the-badge" alt="RAG"/> <img src="https://img.shields.io/badge/pgvector_%26_Embeddings-00C9A7?style=for-the-badge" alt="pgvector and embeddings"/>
 
-<sub>LLM-powered apps • chatbots • tool calling • content engines • document extraction</sub>
+<sub>knowledge bases • AI interviewer • tool calling • streaming • prompt engineering</sub>
 
 ### `~/databases`
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,sequelize&theme=dark" alt="databases"/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma,supabase,sequelize&theme=dark" alt="databases"/>
 
-<sub>+ Mongoose • SQL</sub>
+<sub>+ Mongoose • NeonDB • SQL</sub>
 
 ### `~/mobile-desktop`
 <img src="https://skillicons.dev/icons?i=react,electron&theme=dark" alt="mobile and desktop"/>
 
-<sub>React Native • Expo • iOS Development • Electron.js</sub>
+<sub>React Native • Expo • EAS builds & OTA updates • Electron</sub>
 
 ### `~/devops-tools`
-<img src="https://skillicons.dev/icons?i=docker,cloudflare,vercel,git,github,vscode,postman&theme=dark" alt="devops and tools"/>
+<img src="https://skillicons.dev/icons?i=docker,aws,cloudflare,vercel,git,github,vscode,postman&theme=dark" alt="devops and tools"/>
 
-<sub>+ Railway • Cursor • Husky • Prettier • ESLint • Jira • ClickUp • cPanel</sub>
+<sub>+ CI/CD • Railway • Sentry • Supabase Edge Functions • Cursor • Claude Code</sub>
 
 </div>
 
@@ -135,12 +172,14 @@ $ # 4+ years committed, zero force-pushes to production 😌
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🏟️ **Sports Loop** | Ternion Loop's first product — as Founder & CEO 🚀 | TypeScript |
-| ⚙️ **Alent Dynamic** | Industrial IoT system for real-time monitoring & control of manufacturing processes | React.js • Node.js • MQTT • PostgreSQL • Redis |
-| 🧠 **Content Engine (RAG)** | Retrieval-Augmented Generation pipeline for AI-powered content generation & semantic search | TypeScript • LLMs • Embeddings • Vector DB |
-| 🤖 **[AI Invoice Extractor](https://github.com/maheenur13/ai-invoice-extractor)** | LLM-powered invoice data extraction | TypeScript |
-| 💬 **[LLM Chatbot](https://github.com/maheenur13/llm-chatbot)** | Full-stack AI chatbot ([backend](https://github.com/maheenur13/chatbot-backend)) | TypeScript |
-| 📄 **[Resume Builder](https://github.com/maheenur13/resume-builder)** | Modern resume building tool | TypeScript |
+| 🧠 **[Strativ Context Engine](https://www.maheenur13.dev/projects/strativ-context-engine)** | AI knowledge base over project data, meeting notes and docs; answers with Claude, reached from AI tools through MCP. Now sold to clients | RAG • pgvector • Claude • MCP |
+| 🏟️ **[Sports Loop](https://www.maheenur13.dev/projects/sports-loop)** | Sports community app: matchmaking, chat, venues on a map, live cricket scores. iOS, Android and web from one codebase | Expo • NestJS microservices • PostgreSQL • Redis |
+| 📄 **[TernCV](https://terncv.vercel.app)** | Free ATS resume builder in the browser, no account. PDFs carry their data for re-import | React 19 • Vite • @react-pdf • Web Crypto |
+| 📝 **[Prompt Grade](https://www.maheenur13.dev/projects/prompt-grade)** | Teachers describe a quiz in plain words; an LLM builds it and grades the answers with feedback | React • Express • MongoDB • Groq |
+| ⚙️ **[Alent Dynamic](https://www.maheenur13.dev/projects/alent-dynamic)** | Industrial IoT for Swedish sawmills: monitor and control wood-drying kilns in real time | React • real-time data |
+| 🧭 **[Wayline](https://www.maheenur13.dev/workflow)** | My own learning and shipping app: Android + Windows, voice assistant, LinkedIn drafts, on my portfolio's backend | Expo • Electron • Next.js • Payload |
+
+<sub>More case studies → <a href="https://www.maheenur13.dev/#projects">maheenur13.dev/#projects</a></sub>
 
 <!-- ═══════════════════════ GITHUB STATS ═══════════════════════ -->
 ## 📊 `$ git stats --all-time`
@@ -193,8 +232,8 @@ $ # 4+ years committed, zero force-pushes to production 😌
   <sub>establishing connection… let's build something great together</sub>
   <br/><br/>
 
-  <a href="https://jahidun-nur-mahee.vercel.app">
-    <img src="https://img.shields.io/badge/-Visit%20My%20Portfolio-00C9A7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <a href="https://www.maheenur13.dev">
+    <img src="https://img.shields.io/badge/-Visit%20maheenur13.dev-00C9A7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/differentmahee13/">
     <img src="https://img.shields.io/badge/-Reach%20out%20on%20LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="Reach out"/>
